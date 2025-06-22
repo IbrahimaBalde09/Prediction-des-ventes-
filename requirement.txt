@@ -1,1 +1,1 @@
-matplotlib.pyplot as plt
+matplotlib.pyplot
